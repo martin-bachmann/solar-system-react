@@ -1,10 +1,19 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Solar System (React)
+
+Aplicação React mostrando os diferentes planetas do sistema solar e missões espaciais para estes planetas. Projeto desenvolvido no modulo de FrontEnd do curso da Trybe.
+
+Confira aqui o [site](https://solar-system-react-tau.vercel.app/) em funcionamento!
+
+## Resultado final
+![app_solar_system](https://github.com/martin-bachmann/solar-system-react/blob/main/app_solar_system.png)
+
+## Técnologias usadas
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</p>
+
+## Para iniciar e executar o projeto
+```bash
+npm install
+npm start
+``` 
